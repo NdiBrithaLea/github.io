@@ -510,6 +510,9 @@ p {
 	background-color:#1dadd3;
 	border-color:#1dadd3;
 } 
+.contact-right {
+    margin-top: -50px;
+}
 /*-- //contact --*/ 
 /*-- footer --*/
 .footer {
